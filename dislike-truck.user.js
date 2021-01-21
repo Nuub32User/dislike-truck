@@ -4,14 +4,14 @@
 // @require         https://apis.google.com/js/client.js?v=1
 // @require         https://raw.githubusercontent.com/kimmobrunfeldt/progressbar.js/2af42a3a48979a72a93b989a00bf3e8e75f9f22d/dist/progressbar.js
 // @namespace       dislike-truck
-// @description     Source: https://github.com/1v/dislike-truck
+// @description     Source: https://github.com/Nuub32User/dislike-truck
 // @include         /^https?:\/\/(www\.|)youtube\.com[/]+[\s\S]*$/
 // @version         1.7.1
 // @author          1v
 // @grant           none
 // @icon            http://img-fotki.yandex.ru/get/17846/203537249.14/0_1356dd_5dfe78f0_orig.png
-// @updateURL       https://github.com/1v/dislike-truck/raw/master/dislike-truck.user.js
-// @downloadURL     https://github.com/1v/dislike-truck/raw/master/dislike-truck.user.js
+// @updateURL       https://github.com/Nuub32User/dislike-truck/raw/master/dislike-truck.user.js
+// @downloadURL     https://github.com/Nuub32User/dislike-truck/raw/master/dislike-truck.user.js
 // @run-at          document-end
 // ==/UserScript==
 
@@ -19,8 +19,8 @@
 
 $(function() {
 
-  var CLIENT_ID = '595110168346-46igp17sotrer74ld1rbg4onc5smse60.apps.googleusercontent.com',
-      API_KEY = 'AIzaSyByJQv-QxraMe7iNFEszkcnNk8JfPRTljY',
+  var CLIENT_ID = '266974248109-ll6gqjviujv5fkd385hehs6fptujuj3m.apps.googleusercontent.com',
+      API_KEY = 'AIzaSyBKT3fzpPf8Ao5cY4sw4NutN_0wq0nyOLM',
       SCOPES = 'https://www.googleapis.com/auth/youtube',
       PER_PAGE = 50,
       DELAY_TIME = 500,
